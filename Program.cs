@@ -13,3 +13,4 @@ else if (key.KeyChar == '2')
 {
     Console.WriteLine("正常結束程式。");
 }
+Console.ReadLine();
